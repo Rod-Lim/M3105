@@ -1,4 +1,4 @@
-package fr.unilim.iut.katatennis;
+package mon_package;
 
 
 public class TennisGame1 implements TennisGame {
